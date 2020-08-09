@@ -1,1 +1,12 @@
 # TinDog
+This is a Boostrap 4 responsive website that I built. The website contains all the necessary information for a Startup like Customers' reviews, Pricings, Contact Information,...
+
+##What I've learned: 
+
+Jumbotron, Bootstrap Columns, Bootstrap Buttons, CSS Position Property, Bootstrap Slideshows, Bootstrap Cards, etc.
+
+
+
+##Screenshot
+
+https://tripathi-abhishek.github.io/TinDog/
